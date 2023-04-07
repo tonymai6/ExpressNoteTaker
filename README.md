@@ -41,14 +41,14 @@
 4. Open your browser and navigate to http://localhost:3000
 
 ## Usage
-= Create a new note: Click the "+" button on the bottom right corner.
+- Create a new note: Click the "+" button on the bottom right corner.
 - Edit a note: Click on a note in the list to open and edit it.
 - Delete a note: Click the trash icon next to a note.
 - Organize notes in categories: Click on the "Categories" dropdown to create, edit, or delete categories.
 - Filter notes: Use the search bar to filter notes by content or category.
 
 ## Contributing
-Contributions are welcome! Please follow the steps below to contribute to this project:
+- Contributions are welcome! Please follow the steps below to contribute to this project:
 
 ## Fork the repository
 - Create your feature branch (git checkout -b feature/my-feature)
@@ -61,6 +61,6 @@ Contributions are welcome! Please follow the steps below to contribute to this p
 - Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Tony Mai - tonymai6
+- Tony Mai - tonymai6
 
 - Project link: https://github.com/tonymai6/ExpressNoteTaker
