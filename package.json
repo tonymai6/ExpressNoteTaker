@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kara-krzystan/note-taker.git"
+    "url": "git+https://github.com/tonymai6/ExpressNoteTaker"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/kara-krzystan/note-taker/issues"
+    "url": "https://github.com/tonymai6/ExpressNoteTaker/issues"
   },
-  "homepage": "https://github.com/kara-krzystan/note-taker#readme"
+  "homepage": "https://github.com/tonymai6/ExpressNoteTaker/blob/main/README.md"
 }
