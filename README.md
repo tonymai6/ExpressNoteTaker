@@ -1,38 +1,66 @@
-# Express.js Challenge: Note Taker
+## Express Note Taker
 
-## Description
+- GitHub License
+- GitHub Issues
+- GitHub Stars
 
-For this challenge, I was tasked with creating an application called Note Taker that can be used to write and save notes.
-The app uses an Express.js back end and will save and retrieve user generated note data from a JSON file.
+* Express Note Taker is a fast and lightweight web application that allows you to quickly jot down and organize your notes, ideas, and tasks. Built with Express.js, it is designed for users looking for a simple, no-frills note-taking solution.
 
-The application’s front end has already been created. It's my job to build the back end, connect the two, and then deploy the finished application to Heroku.
+* Table of Contents
+* Features
+* Installation
+* Usage
+* Contributing
+* License
+* Contact
 
-### User Story
+## Features
+- Create, edit, and delete notes in real-time
+- Organize notes in customizable categories
+- Search and filter notes by content or category
+- Auto-save functionality
+- Minimalistic, user-friendly interface
+- Responsive design for mobile devices
 
-AS A small business owner  
-I WANT to be able to write and save notes  
-SO THAT I can organize my thoughts and keep track of tasks I need to complete  
+## Installation
+- Prerequisites
+- Node.js (LTS version recommended)
 
-### Acceptance Criteria
+1. Clone the repository
+- Copy code
+* git clone https://github.com/tonymai6/ExpressNoteTaker.git
 
-GIVEN a note-taking application  
-WHEN I open the Note Taker  
-THEN I am presented with a landing page with a link to a notes page  
-WHEN I click on the link to the notes page  
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column  
-WHEN I enter a new note title and the note’s text  
-THEN a Save icon appears in the navigation at the top of the page  
-WHEN I click on the Save icon  
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes  
-WHEN I click on an existing note in the list in the left-hand column  
-THEN that note appears in the right-hand column  
-WHEN I click on the Write icon in the navigation at the top of the page  
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column  
+2. Navigate to the project directory
+* cd ExpressNoteTaker
 
+3. Install the required dependencies
+* npm install
+- Start the server
+* npm start
 
-### Screenshots
+4. Open your browser and navigate to http://localhost:3000
 
+## Usage
+= Create a new note: Click the "+" button on the bottom right corner.
+- Edit a note: Click on a note in the list to open and edit it.
+- Delete a note: Click the trash icon next to a note.
+- Organize notes in categories: Click on the "Categories" dropdown to create, edit, or delete categories.
+- Filter notes: Use the search bar to filter notes by content or category.
 
-### Contact
+## Contributing
+Contributions are welcome! Please follow the steps below to contribute to this project:
 
-[Tony Mai on GitHub](https://github.com/tonymai6)
+## Fork the repository
+- Create your feature branch (git checkout -b feature/my-feature)
+- Commit your changes (git commit -m 'Add my feature')
+- Push to your branch (git push origin feature/my-feature)
+- Create a new pull request
+- Before contributing, please ensure you've read and understood the Code of Conduct.
+
+## License
+- Distributed under the MIT License. See LICENSE for more information.
+
+## Contact
+Tony Mai - tonymai6
+
+- Project link: https://github.com/tonymai6/ExpressNoteTaker
