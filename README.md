@@ -32,8 +32,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Screenshots
 
-![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_01.jpg)
-![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_02.jpg)
 
 ### Contact
 
