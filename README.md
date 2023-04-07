@@ -64,3 +64,6 @@
 - Tony Mai - tonymai6
 
 - Project link: https://github.com/tonymai6/ExpressNoteTaker
+
+## Deployment Link
+ - https://expressnotetakertony.herokuapp.com/notes
